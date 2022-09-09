@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b3d87fb-41ce-46a5-b64e-45f1a16007b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork_OOP_Seminar5_PhoneBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Export/ConsoleOutputI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Export/FileExport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Export/FileExportAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Export/FileExportJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Export/IDataExport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import/FileImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import/FileImportAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import/FileImportJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import/IDataImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBookImport.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EWthx0pcZjXsWI4hiPEc7L5JWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Яндекс.Диск/YandexDisk/GB/Java/Study/HomeWork_OOP_Seminar5_PhoneBook"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Import" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Яндекс.Диск\YandexDisk\GB\Java\Study\HomeWork_OOP_Seminar5_PhoneBook\src" />
+      <recent name="E:\Яндекс.Диск\YandexDisk\GB\Java\Study\HomeWork_OOP_Seminar5_PhoneBook\src\BasePhonebook" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.Main" />
+      <module name="HomeWork_OOP_Seminar5_PhoneBook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b3d87fb-41ce-46a5-b64e-45f1a16007b4" name="Changes" comment="" />
+      <created>1662723292336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662723292336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Import/FileImportJson.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Import/FileImportJson.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="temp[1].split(&quot; &quot;)[0]" />
+        <watch expression="temp[1].split(&quot; &quot;)[1]" />
+        <watch expression="temp[1].split(&quot; &quot;)[2]" />
+        <watch expression=" temp[1].split(&quot; &quot;)[3]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
